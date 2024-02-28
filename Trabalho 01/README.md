@@ -4,7 +4,7 @@
 <h1 align="center">:file_cabinet: README.md</h1>
 
 ## :memo: Descrição do Projeto
-Este projeto até agora foi realizado com muito esforço, pois esse quem vos escreve até agora era completamente analfabeto em html. Então com ajuda de nossa Professora Julli Mayanne, Tech Lead da Campinho, estamos começando a desbravar as trilhas do nosso conhecimento no assunto.
+Este projeto até agora foi realizado com muito esforço, sangue, suor e lágrimas, pois esse quem vos escreve até agora era completamente analfabeto em html. Então com ajuda de nossa Professora Julli Mayanne, Tech Lead da Campinho, estamos começando a desbravar as trilhas do nosso conhecimento no assunto.
 
 ## :wrench: Como Instalar ##
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
@@ -35,14 +35,13 @@ Colaboradores do projeto:
 
 ## :soon: Licensa
 ![GitHub License](https://img.shields.io/github/license/:user/:repo)
-
-* O que será implementado na próxima sprint?
+* Adicionaremos assim que utilizarmos 
 
 ## :dart: Informações relevantes ao projeto que estão desenvolvendo
-* O projeto BLA BLA BLA
+* O projeto BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA. 
 
 ## :books: Tecnologias utilizadas
-* Tecnologia;
+* Copy/Paste
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
