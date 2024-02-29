@@ -1,0 +1,43 @@
+![logo_campinho_compacto](https://github.com/splimajr/Trabalho_01/assets/149542542/b3e2c246-8631-4e74-8ae7-3865fb5735e0)
+## Web Front End  Turma 2024-1
+
+<h1 align="center">:file_cabinet: README.md</h1>
+
+## :memo: Descrição do Projeto
+Este projeto até agora foi realizado com muito esforço, sangue, suor e lágrimas, pois esse quem vos escreve até agora era completamente analfabeto na área. Então com ajuda de nossa Professora Julli Mayanne, Tech Lead da Campinho e Alberto Moisés monitor, estamos começando a desbravar as trilhas do nosso conhecimento no assunto.
+
+## :wrench: Como Instalar ##
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+```
+<linha de comando>
+```
+
+## :rocket: Como Usar
+Para conseguir ler o arquivo, clique no link abaixo:
+```
+<linha de comando>
+```
+
+## :handshake: Contribuição
+Colaboradores do projeto:
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/splimajr">
+      <img src="https://avatars.githubusercontent.com/u/149542542?v=4" width="100px;" alt="Foto de Salvador Lima Jr no GitHub"/><br>
+        <sub>
+          <b>salvador</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## :soon: Licensa
+![GitHub License](https://img.shields.io/github/license/:user/:repo)
+* Adicionaremos assim que utilizarmos 
+
+## :dart: Informações relevantes ao projeto
+* Liberado Copy/Paste
+* Muita consulta na internet
+* O projeto ... Lorem ipsum dolor sit amet. Eum ipsa provident At corrupti culpa sed quibusdam debitis vel aliquam dolor. Est quia culpa est velit quia est pariatur iste et quia omnis et Quis incidunt. Aut tenetur accusantium rem saepe assumenda sed sunt ducimus ut beatae possimus.
