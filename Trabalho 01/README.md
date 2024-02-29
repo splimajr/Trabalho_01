@@ -1,5 +1,5 @@
 ![logo_campinho_compacto](https://github.com/splimajr/Trabalho_01/assets/149542542/b3e2c246-8631-4e74-8ae7-3865fb5735e0)
-## Web Front End  Turma 2024-1
+## Web Front End / Turma 2024-1
 
 <h1 align="center">:file_cabinet: README.md</h1>
 
