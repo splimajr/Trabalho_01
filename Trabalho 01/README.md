@@ -4,7 +4,7 @@
 <h1 align="center">:file_cabinet: README.md</h1>
 
 ## :memo: Descrição do Projeto
-Este projeto até agora foi realizado com muito esforço, sangue, suor e lágrimas, pois esse quem vos escreve até agora era completamente analfabeto na área. Então com ajuda de nossa Professora Julli Mayanne, Tech Lead da Campinho, estamos começando a desbravar as trilhas do nosso conhecimento no assunto.
+Este projeto até agora foi realizado com muito esforço, sangue, suor e lágrimas, pois esse quem vos escreve até agora era completamente analfabeto na área. Então com ajuda de nossa Professora Julli Mayanne, Tech Lead da Campinho e Alberto Moisés monitor, estamos começando a desbravar as trilhas do nosso conhecimento no assunto.
 
 ## :wrench: Como Instalar ##
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
@@ -37,12 +37,11 @@ Colaboradores do projeto:
 ![GitHub License](https://img.shields.io/github/license/:user/:repo)
 * Adicionaremos assim que utilizarmos 
 
-## :dart: Informações relevantes ao projeto que estão desenvolvendo
-* O projeto BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA. 
-
-## :books: Informações importantes!
+## :dart: Informações relevantes ao projeto
 * Liberado Copy/Paste
 * Muita consulta na internet
+* O projeto ... Lorem ipsum dolor sit amet. Eum ipsa provident At corrupti culpa sed quibusdam debitis vel aliquam dolor. Est quia culpa est velit quia est pariatur iste et quia omnis et Quis incidunt. Aut tenetur accusantium rem saepe assumenda sed sunt ducimus ut beatae possimus.
+
 
 
 <p align="center">
